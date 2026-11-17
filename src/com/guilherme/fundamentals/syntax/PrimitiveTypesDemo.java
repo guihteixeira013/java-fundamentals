@@ -1,6 +1,6 @@
 package com.guilherme.fundamentals.syntax;
 
-public class Class02PrimitiveTypes {
+public class PrimitiveTypesDemo {
     public  static void main (String[] args) {
         // declaring variables
         int age = 31;

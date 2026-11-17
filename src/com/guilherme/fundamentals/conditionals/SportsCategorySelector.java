@@ -1,6 +1,6 @@
 package com.guilherme.fundamentals.conditionals;
 
-public class Class05ConditionalStatements02 {//it's a CLASS
+public class SportsCategorySelector {//it's a CLASS
     public static void main(String[] args) {    //it's a METHOD
         // age < 15                 category junior
         // age >= 15 && age < 18    category senior

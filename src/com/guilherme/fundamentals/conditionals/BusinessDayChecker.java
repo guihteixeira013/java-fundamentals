@@ -1,6 +1,6 @@
 package com.guilherme.fundamentals.conditionals;
 
-public class Class05Challenge {
+public class BusinessDayChecker {
     //    Using switch, print if the day  is business day or weekend
 //    Giving the numbers 1 to 7, 1 being Sunday
     public static void main(String[] args) {

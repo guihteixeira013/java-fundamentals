@@ -1,6 +1,6 @@
 package com.guilherme.fundamentals.loops;
 
-public class Class06LoopStatements03Exercise {
+public class CarInstallmentCalculator {
     /*
         For example, Car's price: 20000$
         To find HOW MUCH and for HOW LONG I'll have to pay MONTHLY.

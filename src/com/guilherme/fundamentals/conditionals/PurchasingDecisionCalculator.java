@@ -1,6 +1,6 @@
 package com.guilherme.fundamentals.conditionals;
 
-public class Class05ConditionalStatements03 {
+public class PurchasingDecisionCalculator {
     public static void main(String[] args) {
 
         // if salary > 2000 "buy ps5" "don't buy ps5#

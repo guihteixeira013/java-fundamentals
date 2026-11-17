@@ -1,6 +1,6 @@
 package com.guilherme.fundamentals.conditionals;
 
-public class Class05ConditionalStatements01 {
+public class PartyAgeVerifier {
     public static void main(String[] args) {
         // INPUT
         int age = 8;

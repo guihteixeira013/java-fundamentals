@@ -1,6 +1,6 @@
 package com.guilherme.fundamentals.syntax;
 
-public class Class03PrimitiveTypesExercise {
+public class EmployeeSalaryReport {
     public static void main(String[] args) {
         //VARIABLES
         String name = "Guilherme Teixeira";

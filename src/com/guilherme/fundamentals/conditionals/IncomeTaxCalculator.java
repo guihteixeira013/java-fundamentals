@@ -1,6 +1,6 @@
 package com.guilherme.fundamentals.conditionals;
 
-public class Class05Challenge2 {
+public class IncomeTaxCalculator {
     public static void main(String[] args) {
         /** How muck taxes that I will pay based on my anual salary?
 

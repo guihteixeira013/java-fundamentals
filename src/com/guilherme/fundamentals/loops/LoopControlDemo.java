@@ -1,6 +1,6 @@
 package com.guilherme.fundamentals.loops;
 
-public class Class06LoopStatements01 {
+public class LoopControlDemo {
     public static void main(String[] args) {
         // while,  do-while,  for
         byte c = 0;

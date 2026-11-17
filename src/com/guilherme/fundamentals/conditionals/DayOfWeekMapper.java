@@ -1,6 +1,6 @@
 package com.guilherme.fundamentals.conditionals;
 
-public class Class05ConditionalStatements05 {
+public class DayOfWeekMapper {
     public static void main(String[] args) {
         byte day = 11;
 

@@ -1,6 +1,6 @@
 package com.guilherme.fundamentals.syntax;
 
-public class Class04Operators {
+public class OperatorsDemo {
     public static void main(String[] args) {
         System.out.println("Lets to learn about Java operators!");
 

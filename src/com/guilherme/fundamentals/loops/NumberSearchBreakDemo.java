@@ -1,6 +1,6 @@
 package com.guilherme.fundamentals.loops;
 
-public class Class06LoopStatements03 {
+public class NumberSearchBreakDemo {
     public static void main(String[] args) {
         int maxNumber = 50;
         for (int i = 0; i <= maxNumber; i++) {
